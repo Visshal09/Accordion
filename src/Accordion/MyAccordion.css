@@ -1,0 +1,22 @@
+.main-heading{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.show{
+    cursor: pointer;
+}
+
+.answer{
+    text-align: center;
+    width: 85%;
+}
+
+.solution{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
